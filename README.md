@@ -39,7 +39,7 @@
  </p>
 
 <div align = "center">
- <img height="160px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ganraj21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+ <img height="160px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ganraj21&show_icons=true&theme=black-ice&include_all_commits=true&count_private=true"/>
  <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=ganraj21&theme=black-ice&hide_border=true&bg_color=0D1117&stroke=0000&background=060A0CD0&date_format=j%20M%5B%20Y%5D"/><br>
 </div>
 
