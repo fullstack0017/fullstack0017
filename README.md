@@ -1,6 +1,6 @@
 <p align="left">I am a high skilled mobile & web developer 🤓 who loves to work in a challenging environment ✨. I am a quick learner and enjoy facing new challenges that test my skills and push me to think outside of the box. My passion for technology and problem-solving drives me to deliver high-quality and efficient solutions for my clients.💥.</p> 
 
-- I really enjoy learning🚀 new languages and frameworks like **Next and Nuxt**.<br/>
+- I really enjoy learning🚀 new languages and frameworks like **NextJs and NuxtJs**.<br/>
 
 
 - 🔭 I’m currently working on a Fullstack app.<br/>
